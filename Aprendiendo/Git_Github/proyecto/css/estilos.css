@@ -10,3 +10,9 @@ body {
     padding: 1em;
     margin: 0 auto;
 }
+#cabezera{
+    color:black;
+    font-size:35px;
+    border: 5px  solid black;
+    border-radius: 50px;
+}
