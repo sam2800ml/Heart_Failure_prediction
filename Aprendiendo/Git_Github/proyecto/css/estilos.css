@@ -2,3 +2,11 @@ body {
     text-align: center;
     color: blue;
 }
+#container {
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: 1px;
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+}
